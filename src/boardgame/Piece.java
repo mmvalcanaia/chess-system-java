@@ -2,6 +2,7 @@ package boardgame;
 
 public class Piece {
 
+<<<<<<< HEAD
 	protected Position position;
 	private Board board;
 	
@@ -16,4 +17,6 @@ public class Piece {
 
 	
 	
+=======
+>>>>>>> cef693a6dbf5ec87248bb62af75a4300f7b004d2
 }
